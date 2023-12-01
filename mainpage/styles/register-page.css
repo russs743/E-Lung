@@ -1,0 +1,313 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}.register-page-eWM {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/download-premium-image-of-minimalist-iphone-wallpaper-white-background-crumpled-paper-texture-by-katie-about-paper-texture-white-background-iphone-wallpaper-grey-backgrounds-and-grey-wallpaper-mobile-phone-4-1-bg-HTP.png');
+  background-color: #ffffff;
+}
+.register-page-eWM .pix-bkg-1-JUR {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+
+}
+
+.pix-bkg-1-doP{
+  width: 1000px;
+  height: 1000px;
+  position:absolute;
+  object-fit: cover;
+}
+
+.register-page-eWM .rectangle-24-m77 {
+  width: 130.1rem;
+  height: 76.6rem;
+  position: absolute;
+  left: 11rem;
+  top: 12.9rem;
+  border: solid 0.4rem #000000;
+  box-sizing: border-box;
+  background-color: #3b4b7c;
+  border-radius: 3.1rem;
+}
+
+.register-page-eWM .username-CtZ {
+  width: 14.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 30.2rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-page-eWM .nim-f1T {
+  width: 5.1rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 18.8rem;
+  top: 42.6rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.register-page-eWM .password-gSM {
+  width: 13.5rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 55rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.SubmitButton{
+  width: 40.3rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 70.4rem;
+  background-color: #4369bc;
+  border-radius: 1.2rem;
+  transition: 0.3s;
+
+}
+
+.SubmitButton:hover{
+  transform: scale(1.1);
+}
+
+.register-page-eWM .register-Xhs {
+  width: 9.5rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 33.8rem;
+  top: 73.4rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 0.6428571429;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  transition: 0.3s;
+}
+
+.inputPassword {
+  width: 40.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 18.7rem;
+  top: 59.2rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+  z-index: 0;
+}
+
+.inputUsername {
+  width: 40.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 18.6rem;
+  top: 46.6rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+  z-index: 0;
+}
+
+.inputNIM {
+  width: 40.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 7rem;
+  top: 21rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+  z-index: 0;
+}
+
+.register-page-eWM .allready-have-an-account-login-o9b {
+  width: 24rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 26.3rem;
+  top: 80.2rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+
+.register-page-eWM .allready-have-an-account-login-o9b .allready-have-an-account-login-o9b-sub-1 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1;
+  text-decoration-line: underline;
+  color: #719eff;
+  font-family: Lato, 'Source Sans Pro';
+}
+
+.register-page-eWM .allready-have-an-account-login-o9b .allready-have-an-account-login-o9b-sub-1:hover{
+  color: #fcb748;
+}
+
+.register-page-eWM .premium-vector-close-and-open-box-with-pixel-art-style-2-tCy {
+  width: 62.6rem;
+  height: 62.6rem;
+  position: absolute;
+  left: 68.3rem;
+  top: 17.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .upload-your-lost-item-and-wait-until-someone-finds-it-NP3 {
+  width: 47.7rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 77.7rem;
+  top: 65rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-page-eWM .premiumvectorabrownwalletwithpixelartstyle-removebg-preview-2-UBB {
+  width: 12.8rem;
+  height: 13.8rem;
+  position: absolute;
+  left: 112.622rem;
+  top: 33.822rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .premiumvectormoneysetwithpixelartstyle-removebg-preview-2-yNq {
+  width: 19.1441rem;
+  height: 19.1441rem;
+  position: absolute;
+  left: 97.8rem;
+  top: 30.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .group-5-TBX {
+  width: 18rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 30rem;
+  top: 12.9rem;
+}
+.register-page-eWM .group-5-TBX .ellipse-1-yvZ {
+  width: 13.1387rem;
+  height: 12.1168rem;
+  position: absolute;
+  left: 2.365rem;
+  top: 1.5752rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.register-page-eWM .group-5-TBX .box-removebg-preview-1-71B {
+  width: 18rem;
+  height: 16.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .group-5-TBX .e-removebg-preview-1-Sp9 {
+  width: 8.146rem;
+  height: 7.9613rem;
+  position: absolute;
+  left: 4.8613rem;
+  top: 0.3635rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .find-ur-beloved-stuff-AVF {
+  width: 18.2rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 29.8rem;
+  top: 27rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+
+}
+.register-page-eWM .welcome-new-member-4qX {
+  width: 84.1rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 35rem;
+  top: 2.4rem;
+  font-size: 7rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.register-page-eWM .ed248e50dc6565fa174e0aedf212fa90-2-kTT {
+  width: 43.4rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 82rem;
+  top: 16rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.register-page-eWM .frasierandthecranefamily-removebg-preview-2-Gwb {
+  width: 40rem;
+  height: 30rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 24rem;
+  object-fit: cover;
+  vertical-align: top;
+}

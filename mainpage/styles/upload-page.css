@@ -1,0 +1,347 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}.upload-page-5Kf {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #436abc;
+}
+.upload-page-5Kf .upload-items-yvq {
+  width: 61.9rem;
+  height: 13.5rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 3.3rem;
+  font-size: 9rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.upload-page-5Kf .rectangle-24-6Em {
+  width: 130.1rem;
+  height: 82rem;
+  position: absolute;
+  left: 6.9rem;
+  top: 16.4rem;
+  border: solid 0.4rem #000000;
+  box-sizing: border-box;
+  filter: blur(0.2rem);
+  background-color: #3b4b7c;
+  border-radius: 3.1rem;
+}
+.upload-page-5Kf .lost-item-xXs {
+  width: 10.4rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 82.2rem;
+  top: 22.3rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.upload-page-5Kf .item-found-suj {
+  width: 13rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 110.1rem;
+  top: 22.3rem;
+  font-size: 2.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.namabarang{
+  width: 28.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 35.1rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .rectangle-12-WSu {
+  width: 53.5rem;
+  height: 64.4rem;
+  position: absolute;
+  left: 13rem;
+  top: 23.5rem;
+  background-color: #d9d9d9;
+  border-radius: 2.5rem;
+}
+
+#fileInput {
+  display: none;
+}
+
+
+#customButton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.uploadgambar{
+  width: 53.5rem;
+  height: 64.4rem;
+  position: absolute;
+  left: 13rem;
+  top: 23.5rem;
+  border-radius: 2.5rem;
+}
+
+.previewGambar{
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  left: 13rem;
+  top: 23.5rem;
+  border-radius: 2.5rem;
+}
+
+.lostcheck{
+  width: 5.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 25.8rem;
+  border: solid 0.4rem #436abc;
+  box-sizing: border-box;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+}
+
+.foundcheck{
+  width: 5.5rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 113.9rem;
+  top: 25.8rem;
+  border: solid 0.4rem #436abc;
+  box-sizing: border-box;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+}
+.upload-page-5Kf .upload-here-F37 {
+  width: 21.3rem;
+  height: 12rem;
+  position: absolute;
+  left: 30rem;
+  top: 47rem;
+  text-align: center;
+  font-size: 2.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fffafa;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.upload-page-5Kf .upload-here-F37 .upload-here-F37-sub-0 {
+  font-size: 8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #fffafa;
+  font-family: Poppins, 'Source Sans Pro';
+}
+
+.upload-page-5Kf .nama-Qq7 {
+  width: 8.7rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 30.9rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.jenisbarang{
+  width: 30.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 35.1rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .jenis-4uf {
+  width: 7.2rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 30.9rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.tanggal{
+  width: 28.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 48rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .tanggal-UiV {
+  width: 11.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 43.8rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.tempat{
+  width: 61.6rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 60.9rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .tempat-kehilangan-iMw {
+  width: 27.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 56.7rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.deskripsi{
+  width: 61.6rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 73.8rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .deskripsi-NBb {
+  width: 12.4rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 70.1rem;
+  top: 69.6rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.contactperson{
+  width: 30.8rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 48rem;
+  background-color: #fcb748;
+  border-radius: 1.2rem;
+  font-size: 25px;
+}
+.upload-page-5Kf .contact-person-ba9 {
+  width: 21.6rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 100.9rem;
+  top: 43.8rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.upload-page-5Kf .download2-removebg-preview-1-Km3 {
+  width: 22.5rem;
+  height: 18rem;
+  position: absolute;
+  left: 67.9rem;
+  top: 7;
+  object-fit: cover;
+  vertical-align: top;
+}
+
+.uploadbutton{
+  width: 40.3rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 86.9rem;
+  background-color: #4369bc;
+  border-radius: 1.2rem;
+  transition: 0.3s;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.uploadbutton:hover{
+  transform: scale(1.1);
+}
+.upload-page-5Kf .upload-yah {
+  width: 9.4rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 96.1rem;
+  top: 89.9rem;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 0.6428571429;
+  color: #ffffff;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+}
